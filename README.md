@@ -1,5 +1,5 @@
 # xacro_to_urdf
-Small utility to compile a xacro file from a ROS package to a  urdf. This is a wrapper around [xacrodoc](https://pypi.org/project/xacrodoc/)
+Small utility to compile a xacro file from a ROS package to a  urdf. This is a wrapper around [xacrodoc](https://pypi.org/project/xacrodoc/). This utility does NOT require ROS to be installed.
 
 ## Installation
 1. Clone the repository
